@@ -10,7 +10,7 @@ D = 0;
 R = 8.314;
 T1 = 573.15;
 T_i = 574; % random initial outflow
-TO =T _i / T1;
+TO =T_i / T1;
 
 error = 1;
 tolerans = 0.00000000001;
