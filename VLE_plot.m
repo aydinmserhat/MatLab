@@ -1,4 +1,4 @@
-%plot of VLE data (x1y1P)
+%plot of VLE data (x1y1P) margules 
 %methyl ethyl ketone(1)/toluene(2)
 clc;
 clear;
